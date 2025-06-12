@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://fabian-nordholt.github.io/sitemap.xml
+Sitemap: https://fabian-nordholt.com/sitemap.xml
