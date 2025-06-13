@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on FN</title>
+    <title>Tags on Fabian Nordholt</title>
     <link>https://fabian-nordholt.com/tags/</link>
-    <description>Recent content in Tags on FN</description>
+    <description>Recent content in Tags on Fabian Nordholt</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <atom:link href="https://fabian-nordholt.com/tags/index.xml" rel="self" type="application/rss+xml" />
